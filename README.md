@@ -4,6 +4,7 @@ Python 2.7
 Extract waveform features for 1D peak-channel waveform and the 2D waveform centered on the soma location.
 
 **1D waveform features**: Waveform duration, peak-trough ratio, repolarization slope, and recovery slope.
+
 ![1D features](images/1d_waveform_features.png "1D waveform features")
 
 **Example 2D waveform**: High-density recording probes can obtain an extracellular waveform profile of each neuron spread across channels
