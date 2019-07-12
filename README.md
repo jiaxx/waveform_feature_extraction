@@ -18,4 +18,7 @@ Extract waveform features for 1D peak-channel waveform and the 2D waveform cente
 This is original Python 2.7 code for paper:
 [Jia et al. (2019) "High-density extracellular probes reveal dendritic backpropagation and facilitate neuron classification." _J Neurophys_ **121**: 1831-1847](https://doi.org/10.1152/jn.00680.2018)
 
+Please cite the paper if using the code. 
+
 For Python 3 implementation, see [https://github.com/AllenInstitute/ecephys_spike_sorting/tree/master/ecephys_spike_sorting/modules/mean_waveforms]
+
